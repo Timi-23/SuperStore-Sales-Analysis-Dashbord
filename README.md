@@ -22,4 +22,4 @@ This project aims to evaluate Superstore sales performance and profitability by 
 - How balanced is performance across regions, segments, and categories?
 
 ## Dasboard screen 
-- <a href="https://github.com/Timi-23/SuperStore-Sales-Analysis-Dashbord/blob/11da1092b17a6bb2d429195dd3789b1ca4ae3324/Superstore%20sales%20data%20dashboard.png"> view Dataset</a>
+![Screenshot (495).] (https://github.com/Timi-23/SuperStore-Sales-Analysis-Dashbord/blob/11da1092b17a6bb2d429195dd3789b1ca4ae3324/Superstore%20sales%20data%20dashboard.png)
