@@ -22,4 +22,4 @@ This project aims to evaluate Superstore sales performance and profitability by 
 - How balanced is performance across regions, segments, and categories?
 
 ## Dasboard screen 
-![Screenshot (495).] (Superstore sales data dashboard.png)
+![Screenshot (495).](images/Superstore sales data dashboard.png)
