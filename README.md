@@ -1,2 +1,3 @@
-# SuperStore-Sales-Analysis-Dashbord
-I analyzed the Superstore sales data (2014–2017) using Excel to evaluate sales, profit, and performance across regions, segments, and product categories. The interactive dashboard highlights key trends, top contributors, and profit drivers.
+# SuperStore-Sales-Analysis-Dashboard (Interactive Dashboard creation using Microsoft Excel)
+## Project Objective
+This project aims to evaluate Superstore sales performance and profitability by region, segment, and product category, providing insights that support data-driven business decisions.
